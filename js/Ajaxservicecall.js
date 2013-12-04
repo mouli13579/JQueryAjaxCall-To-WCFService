@@ -1,5 +1,5 @@
 ﻿$(document).ready(function () {
-    WCFJSON();
+   // WCFJSON();
 });
 
 var Type;
