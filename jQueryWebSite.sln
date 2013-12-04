@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "jQueryWebSite", "..\jQueryWebSite", "{39A129BA-E8CE-4F79-B788-BD1B3B741155}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/jQueryWebSite"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Mouli\Projects\jQueryWebSite (1)\jQueryWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\jQueryWebSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/jQueryWebSite"
+		Release.AspNetCompiler.PhysicalPath = "D:\Mouli\Projects\jQueryWebSite (1)\jQueryWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\jQueryWebSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52319"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A129BA-E8CE-4F79-B788-BD1B3B741155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A129BA-E8CE-4F79-B788-BD1B3B741155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
